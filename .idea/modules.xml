@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zgj/zgj.iml" filepath="$PROJECT_DIR$/zgj/zgj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgjTest.iml" filepath="$PROJECT_DIR$/zgjTest.iml" />
+    </modules>
+  </component>
+</project>

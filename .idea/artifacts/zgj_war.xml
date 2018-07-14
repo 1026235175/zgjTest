@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zgj:war">
+    <output-path>$PROJECT_DIR$/zgj/target</output-path>
+    <root id="archive" name="zgj.war">
+      <element id="artifact" artifact-name="zgj:war exploded" />
+    </root>
+  </artifact>
+</component>
